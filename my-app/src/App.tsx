@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src="https://openmoji.org/data/color/svg/1F532.svg" className="App-logo" alt="logo" />
         <p>
-          MSA 2020 - Test
+          MSA 2020 Test
         </p>
         <a
           className="App-link"
